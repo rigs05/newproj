@@ -1,0 +1,30 @@
+*   [33mcommit e202b7bdc6473c7c44835f695704bb1c2aeca662[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m[32m\[m  Merge: 120971e 9615cb4
+[31m|[m [32m|[m Author: rigs05 <bosco18494@gmail.com>
+[31m|[m [32m|[m Date:   Mon Jul 19 12:20:14 2021 +0530
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge branch 'feature2'
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 9615cb4fd52b144e861143c803f2b5cc8c3f8f1d[m[33m ([m[1;31morigin/feature2[m[33m, [m[1;32mfeature2[m[33m)[m
+[31m|[m [32m|[m Author: rigs05 <bosco18494@gmail.com>
+[31m|[m [32m|[m Date:   Mon Jul 19 12:02:20 2021 +0530
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     new content
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit cb97cf18d2d73f5b00ba98fe7b53e514f9ec2ba7[m
+[31m|[m [32m|[m Author: rigs05 <bosco18494@gmail.com>
+[31m|[m [32m|[m Date:   Mon Jul 19 11:36:26 2021 +0530
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Feature V.1.2
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit 120971e52ddb45b1a343628f0203aa239d97fd26[m[33m ([m[1;33mtag: v.1.0[m[33m, [m[1;33mtag: V1.0[m[33m, [m[1;31morigin/master[m[33m)[m
+[32m|[m[32m/[m  Author: Rigs <bosco18494@gmail.com>
+[32m|[m   Date:   Wed Jul 7 22:54:02 2021 +0530
+[32m|[m   
+[32m|[m       Initial Commit Part #2
+[32m|[m 
+* [33mcommit 41cc80680db5301cb280c99b0f944f3f46a24e89[m[33m ([m[1;33mtag: V0.1[m[33m)[m
+  Author: Rigs <bosco18494@gmail.com>
+  Date:   Thu Jul 1 03:16:38 2021 +0530
+  
+      Initial Commit
